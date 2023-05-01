@@ -9,6 +9,8 @@ Renderizar uma tela de usuário com alguns nomes e na outra tela, mostrar a info
 - Nome
 - Idade
 
+<img src="Tela_Usuario.png">
+
 <br>
 
 ➡️ __Versão Vue.JS:__ ~2 <br>
